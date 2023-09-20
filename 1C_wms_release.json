@@ -1,7 +1,7 @@
 {
    "wms_mobile": [{
            "Version": "171",
-           "Release": "2023-09-20T",
+           "Release": "2023-09-20T00:00:00Z",
            "Folder": "wms_mobile_171",
            "Pack": "wms_mobile_171.apk",
            "Description": "wms_mobile_171.readme",
@@ -9,7 +9,7 @@
        },
        {
            "Version": "173",
-           "Release": "2023-09-20T",
+           "Release": "2023-09-20T00:00:00Z",
            "Folder": "wms_mobile_173",
            "Pack": "wms_mobile_173.apk",
            "Description": "wms_mobile_173.readme",
@@ -17,7 +17,7 @@
        },
        {
            "Version": "174",
-           "Release": "2023-09-20T",
+           "Release": "2023-09-20T00:00:00Z",
            "Folder": "wms_mobile_174",
            "Pack": "wms_mobile_174.apk",
            "Description": "wms_mobile_174.readme",
@@ -27,7 +27,7 @@
 
    "distrib_list": {
        "Version": "1.0",
-       "Release": "2023-09-20T",
+       "Release": "2023-09-20T00:00:00Z",
        "Folder": "Distribution_list",
        "Pack": "distrib_list.json"
    }
