@@ -1,0 +1,34 @@
+{
+   "wms_mobile": [{
+           "Version": "171",
+           "Release": "20.09.2023",
+           "Folder": "wms_mobile_171",
+           "Pack": "wms_mobile_171.apk",
+           "Description": "wms_mobile_171.readme",
+           "MinSDK": "21"
+       },
+       {
+           "Version": "173",
+           "Release": "20.09.2023",
+           "Folder": "wms_mobile_173",
+           "Pack": "wms_mobile_173.apk",
+           "Description": "wms_mobile_173.readme",
+           "MinSDK": "21"
+       },
+       {
+           "Version": "174",
+           "Release": "20.09.2023",
+           "Folder": "wms_mobile_174",
+           "Pack": "wms_mobile_174.apk",
+           "Description": "wms_mobile_174.readme",
+           "MinSDK": "21"
+       }
+   ],
+
+   "distrib_list": {
+       "Version": "1.0",
+       "Release": "20.09.2023",
+       "Folder": "Distribution_list",
+       "Pack": "distrib_list.json"
+   }
+}
