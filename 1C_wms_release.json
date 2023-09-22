@@ -25,10 +25,10 @@
        }
    ],
 
-   "distrib_list": {
+   "server_list": {
        "Version": "1.0",
        "Release": "2023-09-20T00:00:00Z",
-       "Folder": "Distribution_list",
-       "Pack": "distrib_list.json"
+       "Folder": "server_list",
+       "Pack": "server_list.json"
    }
 }
