@@ -1,9 +1,20 @@
 {
-	"distrib_list": [
-		"https://github.com/sitec24/wms",
-		"https://gitlab.com/sitec24/wms",
-		"https://gitea.com/sitec24/wms",
-		"https://gitflick.ru/sitec24/wms",
-		"https://git.sitec24.ru/sitec24/wms"
+	"server_list": [
+		{
+           "Server": "https://update.sitec24.ru/Sitec/upgrade/-/raw/main/",
+           "Main": true
+        },
+		{
+           "Server": "https://github.com/sitec24/wms",
+           "Main": false
+        },
+		{
+           "Server": "https://gitlab.com/sitec24/wms",
+           "Main": false
+        },
+		{
+           "Server": "https://gitea.com/sitec24/wms",
+           "Main": false
+        }
 	]
 }
