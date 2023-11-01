@@ -23,6 +23,14 @@
            "Description": "wms_mobile_174.html",
            "MinSDK": "21"
        }
+       {
+           "Version": "184",
+           "Release": "2023-11-01T00:00:00Z",
+           "Folder": "wms_mobile_184",
+           "Pack": "wms_mobile_184.apk",
+           "Description": "wms_mobile_184.html",
+           "MinSDK": "21"
+       }
    ],
 
    "server_list": {
