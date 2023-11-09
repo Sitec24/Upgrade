@@ -5,15 +5,11 @@
            "Main": true
         },
 		{
-           "Server": "https://github.com/sitec24/wms",
+           "Server": "https://gitea.com/Sitec/upgrade/raw/branch/main/",
            "Main": false
         },
 		{
-           "Server": "https://gitlab.com/sitec24/wms",
-           "Main": false
-        },
-		{
-           "Server": "https://gitea.com/sitec24/wms",
+           "Server": "https://raw.githubusercontent.com/Sitec24/upgrade/main/",
            "Main": false
         }
 	]

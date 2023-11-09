@@ -1,34 +1,7 @@
 {
    "wms_mobile": [{
-           "Version": "171",
-           "Release": "2023-09-20T00:00:00Z",
-           "Folder": "wms_mobile_171",
-           "Pack": "wms_mobile_171.apk",
-           "Description": "wms_mobile_171.readme",
-           "MinSDK": "21"
-       },
-       {
-           "Version": "173",
-           "Release": "2023-09-20T00:00:00Z",
-           "Folder": "wms_mobile_173",
-           "Pack": "wms_mobile_173.apk",
-           "Description": "wms_mobile_173.readme",
-           "MinSDK": "21"
-       },
-       {
-           "Version": "174",
-           "Release": "2023-09-20T00:00:00Z",
-           "Folder": "wms_mobile_174",
-           "Pack": "wms_mobile_174.apk",
-           "Description": {
-                "ru" : "wms_mobile_174_ru.html",
-                "en" : "wms_mobile_174_en.html"
-           }
-           "MinSDK": "21"
-       },
-	   {
            "Version": "184",
-           "Release": "2023-11-08T00:00:00Z",
+           "Release": "2023-11-09T00:00:00Z",
            "Folder": "wms_mobile_184",
            "Pack": "wms_mobile_184.apk",
            "Description": {
@@ -40,8 +13,8 @@
    ],
 
    "server_list": {
-       "Version": "1.0",
-       "Release": "2023-09-20T00:00:00Z",
+       "Version": "2.0",
+       "Release": "2023-11-09T00:00:00Z",
        "Folder": "server_list",
        "Pack": "server_list.json"
    }
