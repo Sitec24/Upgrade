@@ -31,6 +31,17 @@
                 "en" : "wms_mobile_191_en.html"
            },
            "MinSDK": "21"
+       },
+	   {
+           "Version": "193",
+           "Release": "2024-04-01T00:00:00Z",
+           "Folder": "wms_mobile_193",
+           "Pack": "wms_mobile_193.apk",
+           "Description": {
+                "ru" : "wms_mobile_193_ru.html",
+                "en" : "wms_mobile_193_en.html"
+           },
+           "MinSDK": "21"
        }
    ],
 
