@@ -64,6 +64,17 @@
                 "en" : "wms_mobile_195_en.html"
            },
            "MinSDK": "21"
+       },
+	   {
+           "Version": "200",
+           "Release": "2025-04-16T00:00:00Z",
+           "Folder": "wms_mobile_200",
+           "Pack": "wms_mobile_200.apk",
+           "Description": {
+                "ru" : "wms_mobile_200_ru.html",
+                "en" : "wms_mobile_200_en.html"
+           },
+           "MinSDK": "21"
        }
    ],
 
