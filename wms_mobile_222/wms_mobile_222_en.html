@@ -1,0 +1,18 @@
+﻿<html><head></head>
+<body>
+<p><strong>5.0.222 Release Notes</strong></p>
+<p></p>
+<ul>
+<li>The logging system has been revised. Information about the operation, page, and current user has been added. Duplicate entries have been removed, and all records have been standardized.</li>
+<li>The scanning mode configuration has been redesigned. The Barcodes tab now includes three scanning modes: Auto, Keyboard Event, and Broadcast Intent.
+ <br><b><i>Auto</i></b> – in this mode, the scanner connection parameters are configured automatically. The Auto mode is available only on devices from manufacturers with which integration has been implemented (see the list below). It is recommended to reset the mobile terminal scanner settings to factory defaults after enabling this mode.
+ <br>List of manufacturers whose devices are integrated: Honeywell, Urovo, Point mobile, CipherLab, Zebra, Newland, M3, Meferi, iData. 
+ <br><b><i>Broadcast intent</i></b> – when this mode is selected, the integration mechanism with the built-in barcode scanner is used, which sends scan results as a Broadcast Intent message within the Android system. 
+ <br><b><i>Keyboard event</i></b> – in this mode, the scanner operates by simulating keystrokes on the device keyboard.
+ <br>When using the Broadcast Intent or Keyboard Event modes, the corresponding settings must be enabled on the mobile terminal itself.</li>
+<li>Fixed a bug where it was impossible to scan connection settings via the camera on CipherLab mobile terminals.</li>
+<li>Fixed an issue where connection instability could cause errors – for example, after completing one task on the mobile terminal, the next task was automatically started.</li>
+<li>Fixed a bug that caused connection problems with 1С:WMS ver. 4.x.</li>
+<li>Fixed other errors.</li></ul>
+<p></p>
+</body></html> 
